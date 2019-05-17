@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bmlinprice/static/css/main.2cce8147.chunk.css",
+    "main.js": "/bmlinprice/static/js/main.028a217a.chunk.js",
+    "main.js.map": "/bmlinprice/static/js/main.028a217a.chunk.js.map",
+    "runtime~main.js": "/bmlinprice/static/js/runtime~main.b4a25cfb.js",
+    "runtime~main.js.map": "/bmlinprice/static/js/runtime~main.b4a25cfb.js.map",
+    "static/js/2.b41502e9.chunk.js": "/bmlinprice/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/bmlinprice/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/bmlinprice/index.html",
+    "precache-manifest.edb1fe36d00016a259582879ecf53b26.js": "/bmlinprice/precache-manifest.edb1fe36d00016a259582879ecf53b26.js",
+    "service-worker.js": "/bmlinprice/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/bmlinprice/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/bmlinprice/static/media/logo.5d5d9eef.svg"
+  }
+}
